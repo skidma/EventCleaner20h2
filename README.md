@@ -7,7 +7,7 @@
 </div>
 
   <h1 align="center">
-  How to Use
+  How to Use 📚
 </h1>
 
 - MAKE SURE YOU HAVE MICROSOFT VISUAL STUDIO 2022 INSTALLED
@@ -16,7 +16,7 @@
   Extract the folder to ur desktop, once extracted open the .sln file.
 
   <h1 align="center">
-  Features
+  Features 📜
 </h1>
 
 <details>
@@ -46,6 +46,6 @@
 </details>
 
   <h1 align="center">
-  Support
+  Support 🎫
 </h1>
 dm me on discord, i have not created a server yet. @skid25
