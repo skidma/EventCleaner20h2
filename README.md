@@ -48,4 +48,4 @@
   <h1 align="center">
   Support 🎫
 </h1>
-dm me on discord, i have not created a server yet. @skid25
+https://discord.gg/X6NEUzWXVW
