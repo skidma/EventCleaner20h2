@@ -1,5 +1,7 @@
 <h1 align="center">
   EventCleaner20h2
+  
+  JOIN DISCORD TO GET SOLUTION FILES https://discord.gg/X6NEUzWXVW
 </h1>
 <div align="center">
   
