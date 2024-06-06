@@ -1,11 +1,11 @@
 <h1 align="center">
-  EventCleaner20h2
+  Horizion
   
   JOIN DISCORD TO GET SOLUTION FILES https://discord.gg/X6NEUzWXVW
 </h1>
 <div align="center">
   
-![applause-eric-cartman](https://github.com/skidma/EventCleaner20h2/assets/171224006/78ffd79d-063f-4cf7-8620-5bc8fba7ab61)
+![applause-eric-cartman](https://github.com/skidma/Horizion-Fortnite-Free-Internal-/assets/171224006/78ffd79d-063f-4cf7-8620-5bc8fba7ab61)
 </div>
 
   <h1 align="center">
@@ -21,32 +21,83 @@
   Features 📜
 </h1>
 
-<details>
-  <summary>Null Spoofing</summary>
-  Completely NULLS Users PC Serials
-</details>
-<details>
-  <summary>Randomized Spoofing</summary>
-  Completely Randomizes Users PC Serials
-</details>
-<details>
-  <summary>Registry Clean</summary>
-  Cleans Users PC Registry
-</details>
-<details>
-  <summary>Mac Spoofing</summary>
-  Spoofs Users MAC ADDRESS
-</details>
-<details>
-  <summary>Temp Cleaner</summary>
-  Includes Temp Folder Cleaner
-</details>
-<details>
-  <summary>Removes Traces</summary>
-  Removes ALL Tracked Traces by Epic
-</details>
-</details>
+- Enable/Disable The Aimbot
+  
+- Enable/Disable Prediction
 
+- Enable/Disable Auto Aim
+
+- Visible Check (Check if Enemy is Visible)
+
+- Target Indicator Text (Add A Text On Target)
+
+- Target Indicator Line (Add A Line To Target)
+
+- Bullet Indicator Circle
+
+- Draw FOV (Draw The Circle FOV)
+
+- FOV Type (Normal/Dynamic)
+
+- FOV Custom Color
+
+- FOV Size Slider
+
+- Smooth (Make The Aimbot Less/More Legit Looking)
+
+- Max Distance Slider (Choose The Max Distance Aimbot Lock)
+
+- Aimbot Keybind (Choose The Keybind For The Aimbot)
+
+- Hitbox (Choose The Hitbox Aimbot Will Target)
+
+- Box (Normal / Rounded / Filled / Cornered)
+
+- Skeleton
+
+- Name
+
+- Distance
+
+- Weapon
+
+- Weapon Rarity Color
+
+- Weapon Ammo Count
+
+- Platform
+
+- Knocked Check
+
+- Snaplines (Top / Down)
+
+- Head ESP
+
+- Team Check
+
+- Customizable Box Visible Color
+
+- Customizable Box Invisible Color
+
+- Customizable Skeleton Visible Color
+
+- Customizable Skeleton Invisible Color
+
+- Customizable Line Visible Color
+
+- Customizable Line Invisible Color
+
+- Customizable Knocked Color
+
+- Customizable Box Thickness
+
+- Customizable Skeleton Thickness
+
+- Customizable Line Thickness
+
+- Auto Adjust Thickness
+
+- Customizable Max Distance
   <h1 align="center">
   Support 🎫
 </h1>
